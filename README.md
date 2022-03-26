@@ -1,4 +1,6 @@
 # stylegan2-pokemon
 
-FIDが収束するまで学習が終わり次第、結果を記述します。
+簡単にポケモンを生成したい方におすすめです。パラメーターはNvidea公式のパラメータ調整のコツを読んで設定しています。
 ![出力例](stylegan2-generate-pokemon.png)
+![出力例](FID-stylegan2.png)
+![出力例](stylegan2-loss.png)
